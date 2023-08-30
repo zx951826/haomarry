@@ -1,0 +1,100 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 標楷體;
+}
+
+header {
+  background-image: url(./—Pngtree—tiffany\ blue\ blue\ ring\ halo_926462.jpg);
+  height: 10vw;
+  background-size: 1000vw;
+  border-bottom: 2px rgb(82, 241, 220) solid;
+  border-radius: 0 0 8px 8px;
+  a {
+    font-size: 2.5vw;
+    color: rgb(241, 141, 241);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  li {
+    display: inline;
+    margin-right: 3.5vw;
+  }
+  ul {
+    position: absolute;
+    right: 5vw;
+    top: 0;
+    line-height: 10vw;
+  }
+}
+header a:hover {
+  text-decoration: underline;
+  background-color: rgb(0, 140, 255);
+  border-radius: 15%;
+}
+header h1 {
+  font-size: 3.5vw;
+  color: rgb(177, 22, 238);
+  position: absolute;
+  left: 5vw;
+  top: 0;
+  line-height: 8vw;
+}
+.marrytime {
+  background-image: url(./—Pngtree—tiffany\ blue\ blue\ ring\ halo_926462.jpg);
+
+  display: block;
+  color: rgb(185, 132, 221);
+  height: 70vw;
+
+  background-size: 100%;
+}
+section.marrytime {
+  h2 {
+    font-size: 8vw;
+    position: absolute;
+    left: 38vw;
+    line-height: 18vw;
+  }
+  h3 {
+    font-size: 8vw;
+    position: absolute;
+    left: 38vw;
+    margin-block: 18vw;
+  }
+  h5 {
+    font-size: 8vw;
+    position: absolute;
+    left: 23vw;
+    margin-block: 32vw;
+  }
+  h4 {
+    font-size: 5vw;
+    position: absolute;
+    left: 23vw;
+    margin-block: 60vw;
+  }
+  a {
+    font-size: 8vw;
+    position: absolute;
+    left: 35vw;
+    margin-block: 45vw;
+    border: 0.5vw solid rgb(140, 164, 229);
+    padding: 0.5vw 1vw;
+    border-radius: 2vw;
+  }
+}
+main a:hover {
+  text-decoration-color: aqua;
+}
+section.map {
+  background-color: rgba(114, 240, 240, 0.397);
+
+  text-align: center;
+  h3 {
+    font-size: 5vw;
+  }
+}
